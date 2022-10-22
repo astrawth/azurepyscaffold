@@ -1,0 +1,2 @@
+# azurepyscaffold
+Azure python scaffold
